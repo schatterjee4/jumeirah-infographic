@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'TFArrow';
+  src: url('tf-arrow-extrabold-1361518762.eot'); /* IE9 Compat Modes */
+  src: url('tf-arrow-extrabold-1361518762.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('tf-arrow-extrabold-1361518762.woff') format('woff'), /* Modern Browsers */
+       url('tf-arrow-extrabold-1361518762.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('tf-arrow-extrabold-1361518762.svg#7e2ff9996867b71989d3c13ed111f778') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
